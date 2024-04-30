@@ -49,4 +49,3 @@ export const getPaymentTokenApi = async (getToken,createOrder,paymentCode) => {
       throw error; // Re-throw the error for the caller to handle
     }
   };
-  //testing
